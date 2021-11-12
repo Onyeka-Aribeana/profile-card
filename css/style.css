@@ -23,7 +23,7 @@ hr {
 }
 
 .card-container {
-    width: 400px;
+    width: 370px;
     height: 450px;
     position: absolute;
     top: 50%;
@@ -46,7 +46,7 @@ hr {
     border-radius: 50%;
     background-color: white;
     padding: 5px;
-    transform: translate(148px, 105px);
+    transform: translate(130px, 105px);
 }
 
 .image-container img{
